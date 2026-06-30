@@ -10,9 +10,17 @@
 ### 変数 u, v, w のシミュレーション推移
 （※変数 u はx軸方向、v はy軸方向への影響度を示しています）
 
-| u View (Heatmap) | v View (Surface Plot) | w View (Surface Plot) |
-| :---: | :---: | :---: |
-| <video src="https://github.com/user-attachments/assets/ba60d7ef-8cef-44db-82b0-2769a6ac8d99" width="100%" autoplay loop muted></video> | <video src="https://github.com/user-attachments/assets/de183e1c-2ad3-4ec1-b412-79ad52375570" width="100%" autoplay loop muted></video> | <video src="https://github.com/user-attachments/assets/bf59c826-b9d5-41e3-bae8-711123da165d" width="100%" autoplay loop muted></video> |
+### 変数 u, v, w のシミュレーション推移
+（※変数 u はx軸方向、v はy軸方向への影響度や濃度を示しています）
+
+**◆ u View (Heatmap)**
+https://github.com/user-attachments/assets/ba60d7ef-8cef-44db-82b0-2769a6ac8d99
+
+**◆ v View (Surface Plot)**
+https://github.com/user-attachments/assets/de183e1c-2ad3-4ec1-b412-79ad52375570
+
+**◆ w View (Surface Plot)**
+https://github.com/user-attachments/assets/bf59c826-b9d5-41e3-bae8-711123da165d
 
 ## 直面している技術的課題と現在のアプローチ
 
