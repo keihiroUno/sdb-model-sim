@@ -9,9 +9,9 @@
 
 ### 変数 u, v, w のシミュレーション推移
 （※変数 $u$ はx軸方向、$v$ はy軸方向への影響度や濃度を示しています）
-<video src="https://github.com/user-attachments/assets/65e19e5b..." controls width="300"></video>
-<video src="https://github.com/user-attachments/assets/384578c2..." controls width="300"></video>
-<video src="https://github.com/user-attachments/assets/db9bde23..." controls width="300"></video>
+| u View (Heatmap) | v View (Surface Plot) | w View (Surface Plot) |
+| :---: | :---: | :---: |
+| <video src="https://github.com/user-attachments/assets/65e19e5b..." width="100%" autoplay loop muted></video> | <video src="https://github.com/user-attachments/assets/384578c2..." width="100%" autoplay loop muted></video> | <video src="https://github.com/user-attachments/assets/db9bde23..." width="100%" autoplay loop muted></video> |
 
 ## 直面している技術的課題と現在のアプローチ
 
@@ -23,6 +23,10 @@
 
 ### 現在のシミュレーション進捗（動画）
 （※ここに、今出せる最もマシな状態、あるいは飽和効果を入れて挙動が変化した動画を置きます）
+| 2D View (Heatmap) |
+| :---: |
+| <video src="https://github.com/user-attachments/assets/3e624deb-bbce-448b-a436-548c306e4057" width="100%" autoplay loop muted></video> |
+
 <video src="https://github.com/user-attachments/assets/0f495119-ab2c-4d6a-8199-f485e7157a2b"　controls width="300"></video>
 <video src="https://github.com/user-attachments/assets/3e624deb-bbce-448b-a436-548c306e4057" controls width="300"></video>
 <video src="https://github.com/user-attachments/assets/a6e0bc53-8905-48c4-8982-69f74dbf5b76" controls width="300"></video>
