@@ -13,10 +13,10 @@
 **◆ u View (Heatmap)**
 https://github.com/user-attachments/assets/ba60d7ef-8cef-44db-82b0-2769a6ac8d99
 
-**◆ v View (Surface Plot)**
+**◆ v View (Heatmap)**
 https://github.com/user-attachments/assets/de183e1c-2ad3-4ec1-b412-79ad52375570
 
-**◆ w View (Surface Plot)**
+**◆ w View (Heatmap)**
 https://github.com/user-attachments/assets/bf59c826-b9d5-41e3-bae8-711123da165d
 
 ## 直面している技術的課題と現在のアプローチ
